@@ -3,7 +3,11 @@
 
 
 def twirl
+<<<<<<< HEAD
   "I'm twirling!"
+=======
+  "I'm twirling!" 
+>>>>>>> 19aab4b67aa7c696e39243588f2628ba8dddd3cd
 end
 
 def jump
