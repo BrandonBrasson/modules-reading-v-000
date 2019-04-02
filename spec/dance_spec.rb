@@ -1,7 +1,7 @@
 <<<<<<< HEAD
- puts describe 'Dance module' do
+  describe 'Dance module' do
 =======
-puts describe 'Dance module' do
+ describe 'Dance module' do
 >>>>>>> 19aab4b67aa7c696e39243588f2628ba8dddd3cd
   let(:dummy_class) { Class.new { include Dance }.new }
 
