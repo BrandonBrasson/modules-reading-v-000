@@ -18,7 +18,7 @@
   end
 end
 
-puts describe 'FancyDance::ClassMethods module' do
+ describe 'FancyDance::ClassMethods module' do
   let(:dummy_class) {Class.new {extend FancyDance::ClassMethods}}
 
   it 'has a metadata method' do
