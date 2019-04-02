@@ -4,12 +4,10 @@ module FancyDance
     def twirl
       "I'm twirling!"
     end
-
-    def jump
+  def jump
       "Look how high I'm jumping!"
     end
-
-    def pirouette
+def pirouette
       "I'm doing a pirouette"
     end
 
@@ -24,4 +22,20 @@ module FancyDance
       "This class produces objects that love to dance."
     end
   end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 end
