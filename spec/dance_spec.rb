@@ -19,3 +19,5 @@
   it 'has a #take_a_bow method' do
     expect(dummy_class.take_a_bow).to eq("Thank you, thank you. It was a pleasure to dance for you all.")
   end
+end
+end
